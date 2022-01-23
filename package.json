@@ -1,0 +1,13 @@
+{
+  "name": "solidity-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jeedani <36130718+jeedani@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.8.3",
+    "ts-node": "^10.4.0",
+    "typechain": "^7.0.0",
+    "typescript": "^4.5.5"
+  }
+}
